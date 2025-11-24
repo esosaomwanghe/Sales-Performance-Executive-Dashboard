@@ -28,7 +28,7 @@ Comprehensive retail sales performance report tracking $437K+ in revenue across 
 - **Visual Best Practices** – Card visuals, conditional formatting, drill-through ready
 
 ### Screenshots
-![Sales Performance Dashboard](assets/images/sales-performance-full.png)
+![Sales Performance Dashboard](https://github.com/esosaomwanghe/Sales-Performance-Executive-Dashboard/blob/main/Sale%20Performance%20Report.png)
 *Full interactive dashboard – clean executive layout*
 
 ### Files in this Repository
