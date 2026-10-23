@@ -37,7 +37,7 @@ Comprehensive retail sales performance report tracking $437K+ in revenue across 
 - `assets/images/` → High-res screenshots
 
 Live Interactive Version (after publishing):  
-🔗 [View in Power BI Service](#) *(add link when published)*
+🔗 [View in Power BI Service](#) *(https://app.powerbi.com/groups/me/reports/45d0235f-e04e-4f0f-8218-ba21dcbcf5f4/0dd9920c1620305c0c89?experience=power-bi)*
 
 [← Back to Main Portfolio](https://github.com/esosaomwanghe)
 
